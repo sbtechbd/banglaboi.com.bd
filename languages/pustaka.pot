@@ -1,0 +1,2879 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-04 03:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../../../../theme/pustaka/404.php:13
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:22
+#: ../../../../theme/pustaka/app/functions/function-utility.php:66
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:80
+#: ../../../../theme/pustaka/app/functions/function-utility.php:123
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:108
+#: ../../../../theme/pustaka/breadcrumbs.php:201
+#: ../../../../theme/pustaka/app/functions/function-utility.php:151
+#: ../../../../theme/pustaka/app/functions/function-utility.php:239
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:159
+#: ../../../../theme/pustaka/app/functions/function-utility.php:202
+msgid "Error 404"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:205
+#: ../../../../theme/pustaka/app/functions/function-utility.php:243
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:210
+#: ../../../../theme/pustaka/app/functions/function-utility.php:248
+msgid "Author:"
+msgstr ""
+
+#: ../../../../theme/pustaka/breadcrumbs.php:215
+#: ../../../../theme/pustaka/app/functions/function-templates.php:705
+#: ../../../../theme/pustaka/app/functions/function-utility.php:253
+msgid "Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:25
+#: ../../../../theme/pustaka/comments.php:47
+#: ../../../../theme/pustaka/app/functions/function-templates.php:230
+msgid "Edit"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:37
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:43
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:54
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:61
+msgid "Reply"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:83
+#, php-format
+msgctxt "comments title"
+msgid "One Thought on %2$s"
+msgid_plural "%1$s Thoughts on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/comments.php:89
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:91
+msgid "Comment navigation"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:92
+msgid "Older Comments"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:93
+msgid "Newer Comments"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:111
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this "
+"post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:117
+msgid "Comments are closed."
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:128
+msgid "Your Name *"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:129
+msgid "Your Email Address *"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:130
+msgid "Your Website (optional)"
+msgstr ""
+
+#: ../../../../theme/pustaka/comments.php:136
+msgid "Your Comment *"
+msgstr ""
+
+#: ../../../../theme/pustaka/custom-search-form-mobile.php:23
+#: ../../../../theme/pustaka/custom-search-form.php:23
+#: ../../../../theme/pustaka/templates/product-search.php:53
+msgid "All Categories"
+msgstr ""
+
+#: ../../../../theme/pustaka/custom-search-form-mobile.php:42
+msgid "Type to search books <em>and hit enter</em>"
+msgstr ""
+
+#: ../../../../theme/pustaka/custom-search-form.php:41
+msgid "Type to search and hit enter"
+msgstr ""
+
+#: ../../../../theme/pustaka/footer.php:29
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:29
+msgid "Custom Logo"
+msgstr ""
+
+#: ../../../../theme/pustaka/header-type-1.php:33
+#: ../../../../theme/pustaka/header-type-2.php:36
+#: ../../../../theme/pustaka/templates/temp-new-header.php:61
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:198
+msgid "Cart"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:38
+msgid "Page Not Found"
+msgstr ""
+
+#. Name of the template
+#: ../../../../theme/pustaka/loop-meta.php:42
+#: ../../../../theme/pustaka/loop-meta.php:123
+msgid "Blog"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:53
+#, php-format
+msgid "Category: <strong>%s</strong>"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:58
+#, php-format
+msgid "Tag: <strong>%s</strong>"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:67
+#, php-format
+msgid "Author: <strong>%s</strong>"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:71
+msgid "Search Result "
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:73
+#, php-format
+msgid "You are browsing the search results for \"%s\""
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:79
+msgid "Events"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:103
+msgid "F d, Y"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:105
+msgid "F Y"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-meta.php:107
+msgid "Y"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-nav.php:15
+msgid "<span class=\"meta-nav\">&larr;</span> Return to entry"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-nav.php:28
+#: ../../../../theme/pustaka/app/functions/function-utility.php:40
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../../../../theme/pustaka/loop-nav.php:32
+#: ../../../../theme/pustaka/app/functions/function-utility.php:44
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ../../../../theme/pustaka/menu-user.php:46
+msgid "My Account"
+msgstr ""
+
+#: ../../../../theme/pustaka/menu-user.php:47
+msgid "My Orders"
+msgstr ""
+
+#: ../../../../theme/pustaka/menu-user.php:50
+msgid "My Wishlist"
+msgstr ""
+
+#: ../../../../theme/pustaka/menu-user.php:52
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:112
+msgid "Logout"
+msgstr ""
+
+#: ../../../../theme/pustaka/menu-user.php:61
+msgid "Log In"
+msgstr ""
+
+#: ../../../../theme/pustaka/single-attachment.php:39
+#: ../../../../theme/pustaka/template-parts/content-page.php:16
+#: ../../../../theme/pustaka/app/functions/function-templates.php:701
+msgid "Pages:"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_book_authors.php:32
+#: ../../../../theme/pustaka/templates/authors.php:57
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_author.php:63
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-author-info.php:30
+msgid "Author Picture"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_book_authors.php:43
+#: ../../../../theme/pustaka/templates/authors.php:66
+#: ../../../../theme/pustaka/templates/publishers.php:66
+#, php-format
+msgid "%s Published Book"
+msgid_plural "%s Published Books"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_book_series.php:30
+msgid "Series Picture"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_category_icons_grid.php:31
+msgid "Category Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_category_icons_grid.php:45
+#, php-format
+msgid "%s Book"
+msgid_plural "%s Books"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_features_list.php:27
+msgid "Features Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_book_flip.php:37
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:206
+#: ../../../../theme/pustaka/woocommerce/content-single-product-for-king.php:36
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:26
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:126
+msgid "Back Cover"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_book_flip.php:48
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:217
+#: ../../../../theme/pustaka/woocommerce/content-single-product-for-king.php:47
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:37
+msgid "Flip to Back"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:42
+msgid "Browse Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:65
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:94
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:140
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:172
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:192
+msgid "By: "
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:70
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:142
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:174
+#: ../../../../theme/pustaka/template-parts/content-blog-list.php:91
+msgid "Read More"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_details.php:108
+msgid "ABOUT AUTHOR: "
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_sales_coundown_lists.php:38
+msgid "Popular"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_sales_coundown_lists.php:39
+msgid "Newest"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_sales_coundown_lists.php:40
+msgid "$10 and Under"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_product_sales_coundown_lists.php:141
+msgid "See All Deals"
+msgstr ""
+
+#: ../../../../theme/pustaka/kingcomposer/pustaka_slider.php:47
+msgid "Slide Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/template-parts/content-blog-list.php:23
+#: ../../../../theme/pustaka/template-parts/content-blog-masonry.php:23
+#: ../../../../theme/pustaka/template-parts/content-gallery.php:91
+#: ../../../../theme/pustaka/template-parts/content.php:65
+msgid "Featured"
+msgstr ""
+
+#: ../../../../theme/pustaka/template-parts/content-blog-list.php:52
+#: ../../../../theme/pustaka/template-parts/content-blog-masonry.php:52
+#: ../../../../theme/pustaka/template-parts/content-gallery.php:118
+msgid "Post Images"
+msgstr ""
+
+#: ../../../../theme/pustaka/template-parts/content-gallery.php:59
+#: ../../../../theme/pustaka/template-parts/content.php:32
+msgid "Under "
+msgstr ""
+
+#: ../../../../theme/pustaka/template-parts/content-gallery.php:71
+#: ../../../../theme/pustaka/template-parts/content.php:44
+msgid "Tags "
+msgstr ""
+
+#: ../../../../theme/pustaka/template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the template
+msgid "All Deals"
+msgstr ""
+
+#. Name of the template
+msgid "Archive"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/archive.php:37
+msgid "Last 20 Posts"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/archive.php:45
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/archive.php:57
+msgid "Page Archives"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/archive.php:68
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:212
+msgid "Categories"
+msgstr ""
+
+#. Name of the template
+msgid "Authors"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/authors.php:36
+#: ../../../../theme/pustaka/templates/publishers.php:36
+msgid "All"
+msgstr ""
+
+#. Name of the template
+msgid "Blog List"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Masonry"
+msgstr ""
+
+#. Name of the template
+msgid "Composer"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/contact.php:36
+msgid "Your Marker Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/contact.php:37
+msgid "Your Marker Content Here"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/contact.php:91
+msgid ""
+"Please activate Tokoo Vitamins extension in order to use this page template."
+msgstr ""
+
+#. Name of the template
+msgid "Product Search"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:31
+msgid "Keyword :"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:37
+msgid "ISBN :"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:46
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:254
+msgid "Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:75
+#: ../../../../theme/pustaka/woocommerce/single-product/product-attributes.php:83
+msgid "Author"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:82
+msgid "All Authors"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:101
+#: ../../../../theme/pustaka/woocommerce/single-product/product-attributes.php:106
+msgid "Publisher"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:108
+msgid "All Publishers"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:127
+#: ../../../../theme/pustaka/woocommerce/single-product/product-attributes.php:129
+msgid "Series"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:134
+msgid "All Series"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/product-search.php:154
+#: ../../../../theme/pustaka/woocommerce/product-searchform.php:27
+#: ../../../../theme/pustaka/app/functions/template-searchform.php:15
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+msgid "Publishers"
+msgstr ""
+
+#: ../../../../theme/pustaka/templates/publishers.php:57
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_publisher.php:62
+msgid "Publisher Picture"
+msgstr ""
+
+#. Name of the template
+msgid "Block Baru"
+msgstr ""
+
+#. Name of the template
+msgid "New header"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/archive-product.php:83
+msgid "Grid Layout"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/archive-product.php:86
+msgid "List Layout"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:74
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:365
+msgid "Regular"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:86
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:104
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:122
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:140
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:158
+msgid "View All"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:92
+msgid "Books"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:110
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:54
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:368
+msgid "Movie"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:128
+msgid "Music"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-archive-product-alt.php:146
+msgid "Games"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-product-for-king.php:56
+msgid "Buy Now"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-single-product-for-king.php:76
+msgid "See Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/content-widget-best-selling-products.php:35
+#: ../../../../theme/pustaka/woocommerce/content-widget-top-products.php:39
+msgid "By"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/product-searchform.php:26
+msgid "Search for &hellip;"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:72
+msgid "Name"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:74
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:54
+msgid "Email"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:87
+msgid "Your Rating"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:88
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:89
+msgid "Perfect"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:90
+msgid "Good"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:91
+msgid "Average"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:92
+msgid "Not that bad"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:93
+msgid "Very Poor"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:97
+msgid "Your Review"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product-reviews.php:106
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_author.php:54
+msgid "Biography"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_author.php:104
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_publisher.php:103
+msgid "Books Of"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/taxonomy-book_publisher.php:53
+msgid "About the Pubsliher"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-menus.php:12
+msgid "Primary Menu"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:12
+msgid "Primary"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:14
+msgid "Area of primary sidebar"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:21
+msgid "Footer One"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:23
+msgid "Widget Area of Footer First column"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:31
+msgid "Footer Two"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:33
+msgid "Widget Area of Footer Second column"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:41
+msgid "Footer Three"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/config/config-sidebars.php:43
+msgid "Widget Area of Footer Third column"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:26
+msgid "Sticky Post Label"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:37
+msgid "Page Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:50
+msgid "Post Author Box"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:61
+msgid "Post/Page Comments"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:72
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:83
+msgid "Pagination with ajax load"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:92
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:138
+msgid "--none--"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:116
+msgid "Related Post Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:129
+msgid "Disallow by Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:146
+msgid "Disallow by Tag"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:156
+msgid "Related"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:158
+msgid "Related Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:168
+msgid "Display Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:180
+msgid "404 Page Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-advanced-settings.php:190
+msgid "404 Background Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:16
+msgid "Color Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:29
+msgid "Accent Color 1"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:40
+msgid "Accent Color 2"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:51
+msgid "Body Background Color"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:62
+msgid "Heading Color"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-color-settings.php:73
+msgid "Text Color"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:16
+msgid "Site Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:42
+msgid "Header Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:56
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:145
+msgid "Header Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:61
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:148
+msgid "Type 1 - Default"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:62
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:149
+msgid "Type 2"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:69
+msgid "Menu Opening Method"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:75
+msgid "On Click"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:76
+msgid "On Hover"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:84
+msgid "Global Page Title Background (1600x600 px)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:95
+msgid "Sticky Header"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:105
+msgid "Cart Header Button Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:111
+msgid "Text"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:112
+msgid "Icon"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:121
+msgid "Footer Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:131
+msgid "Payment Logo"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:142
+msgid "Footer Credits"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:154
+msgid "Social Icons"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:167
+#: ../../../../theme/pustaka/app/functions/function-templates.php:330
+msgid "Facebook Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:176
+#: ../../../../theme/pustaka/app/functions/function-templates.php:331
+msgid "Twitter Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:185
+msgid "Google Plus Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-general-settings.php:194
+msgid "Pinterest Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-map-settings.php:16
+msgid "Map Setting"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-map-settings.php:26
+msgid "Google Map API Key"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-register-panel.php:16
+msgid "Pustaka Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:16
+msgid "Font Settings"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:29
+msgid "Global Font Size"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:39
+msgid "Body Font"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:50
+msgid "Heading Font"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:61
+msgid "Body Font Weight"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:78
+msgid "Body Letter Spacing"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:89
+msgid "Body Line Height"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:100
+msgid "Heading Font Weight"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-typography-settings.php:117
+msgid "Heading Letter Spacing"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:19
+msgid "Shop Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:32
+msgid "Default Product Layout"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:38
+msgid "Grid"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:39
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:148
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:50
+msgid "List"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:46
+msgid "Default Product Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:52
+msgid "General - Default"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:53
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:366
+msgid "Book"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:55
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:367
+msgid "Audio"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:56
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:369
+msgid "Game"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:63
+msgid "Hide Products Category Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:72
+msgid "Hide Products Result Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:81
+msgid "Products Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:90
+msgid "Product Columns"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:108
+msgid "Hide Products Sale Flash"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:117
+msgid "Hide Products Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:126
+msgid "Hide Products Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:135
+msgid "Hide Products Star Rating"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:144
+msgid "Hide Products Price"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:153
+msgid "Hide Products Quick Shop"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:162
+msgid "Hide Products Catalog Ordering"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:171
+msgid "Hide Browse by Tag"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:181
+msgid "Single Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:202
+msgid "Hide Single Products Sale Flash"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:211
+msgid "Hide Single Products Price"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:220
+msgid "Hide Single Products Add To Cart"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:229
+msgid "Hide Single Products Excerpt"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:238
+msgid "Hide Single Products Meta"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:247
+msgid "Hide Single Products Rating"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:256
+msgid "Hide Single Products Tabs"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:266
+msgid "Related Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:279
+msgid "Hide Related Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:288
+msgid "Related Product Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:297
+msgid "Related Product Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:308
+msgid "Upsells Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:321
+msgid "Hide Up-Sells Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:330
+msgid "Upsell Product Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:339
+msgid "Upsell Product Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:349
+msgid "Category on Single Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:362
+msgid "Hide Category on Single Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:371
+msgid "Category on Single Product Number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:381
+msgid "Cross Sells Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:394
+msgid "Hide Cross-Sells Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/customizer/customizer-woocommerce-settings.php:403
+msgid "Product Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:60
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:61
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:139
+msgid "days"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:140
+msgid "hr"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:141
+msgid "min"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-assets.php:142
+msgid "sec"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:22
+msgid "P-Section Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:23
+msgid "Display Pustaka Section Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:36
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:623
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:864
+msgid "Section Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:42
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:629
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:871
+msgid "Section Sub Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:48
+msgid "Position"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:94
+msgid "P-Sliders"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:95
+msgid "Display Pustaka Sliders"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:106
+msgid "Select Slider Item"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:112
+msgid "Slider Style"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:123
+msgid "Slider Duration"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:130
+msgid "Slider Animation"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:144
+msgid "Custom Height"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:184
+msgid "P-Product Category Icons Grid"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:185
+msgid "Display Product Categories With Icons"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:191
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:329
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:417
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:458
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:506
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:803
+msgid "Columns"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:205
+msgid "Category Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:206
+msgid "Display Category Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:215
+msgid "Add new Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:219
+msgid "Custom Name"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:220
+msgid "Use Custom name instead of category name"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:225
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:527
+msgid "Item Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:228
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:530
+msgid "Icon Font"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:229
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:531
+msgid "Icon Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:234
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:536
+msgid "Select Icon"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:244
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:546
+msgid "Attach Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:322
+msgid "P-Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:323
+msgid "Display Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:343
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:431
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:472
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:817
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:32
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:33
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:33
+msgid "Limit"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:349
+msgid "Show Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:352
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:364
+msgid "All Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:353
+msgid "On-Sale Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:354
+msgid "Featured Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:355
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:26
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:361
+msgid "Product Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:375
+msgid "Product Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:382
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:823
+msgid "Orderby"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:385
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:826
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:55
+msgid "Date"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:386
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:827
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:59
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:270
+msgid "Random"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:392
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:833
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:42
+msgid "Order"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:395
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:836
+msgid "ASC"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:396
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:837
+msgid "DESC"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:410
+msgid "P-Book Series"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:411
+msgid "Display Book Series With Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:437
+msgid "Book Series"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:451
+msgid "P-Book Authors"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:452
+msgid "Display Book Authors With Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:478
+msgid "Product Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:479
+msgid "Display Product Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:485
+msgid "Book Author"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:499
+msgid "P-Features List"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:500
+msgid "Display Features List"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:520
+msgid "Items"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:523
+msgid "Add new item"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:556
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:123
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:25
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:25
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:20
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:170
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:21
+msgid "Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:561
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:127
+msgid "Link"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:577
+msgid "P-Contact Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:578
+msgid "Display Contact Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:589
+msgid "Select Contact"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:611
+msgid "P-MailChimp For WP"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:612
+msgid "Display MailChimp Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:635
+msgid "Section Title Position"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:646
+msgid "MailChimp ID"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:687
+msgid "P-Product Book Flip"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:688
+msgid "Product Flip Book"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:700
+msgid "Select the Book From"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:710
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:878
+msgid "Select Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:716
+msgid "Image Front"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:717
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:723
+msgid "Select if use the static type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:722
+msgid "Image Back"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:750
+msgid "P-Products Sales Countdown"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:751
+msgid "Product sales countdown"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:763
+msgid "Select On-Sale Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:769
+msgid "Limit Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:774
+msgid "Select Page All Deals"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:796
+msgid "P-Products Deals"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:797
+msgid "Display Products Deals"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:851
+msgid "P-Product Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:852
+msgid "Show Product with details information"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-king-composer.php:884
+msgid "Select Style"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:50
+#, php-format
+msgid "Copyright &copy; %s %s."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:55
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:55
+msgid "WordPress"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:58
+#: ../../../../theme/pustaka/app/functions/function-templates.php:67
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:62
+#, php-format
+msgid " Powered by %s and %s."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:69
+#, php-format
+msgid " Powered by %s, %s and %s."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:136
+#, php-format
+msgid "Posted By %s"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:138
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:188
+msgid "Leave a response"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:189
+#, php-format
+msgid "%1$s Response"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:190
+#, php-format
+msgid "%1$s Responses"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:203
+#: ../../../../theme/pustaka/app/functions/function-templates.php:205
+#: ../../../../theme/pustaka/app/functions/function-templates.php:207
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:230
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:332
+msgid "Google+ Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:333
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:334
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:335
+msgid "Instagram URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:485
+msgid "Related Posts"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:557
+msgid "Related Project"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-templates.php:604
+msgid "Share Article"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:219
+msgid "Shop"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:221
+msgid "Widgets in this area will be shown on the shop page."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:648
+#: ../../../../theme/pustaka/woocommerce/single-product/tabs/additional-information.php:25
+msgid "Book Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:651
+msgid "Movie Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:654
+msgid "Game Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:657
+msgid "Audio Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/function-woocommerce.php:660
+msgid "Product Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/functions/template-searchform.php:14
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-page-title.php:10
+msgid "Page Title Background"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-page-title.php:13
+msgid "Page Title Background Image (Preferred size : 1600x600 )"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:14
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:37
+msgid "Contact Maps"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:21
+msgid "Contact Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:27
+msgid "Select Contact Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:28
+msgid "Type the contact form from ninja form plugin"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:43
+msgid "Latitude"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:44
+msgid "Type the location Latitude"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:49
+msgid "Longitude"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:50
+msgid "Type the location Longitude"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:55
+msgid "Zoom"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:56
+msgid "Type the map zoom value"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:62
+msgid "Marker Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:63
+msgid "Type the marker title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:68
+msgid "Marker Content"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:69
+msgid "Type the marker content"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:74
+msgid "Company Tagline"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:75
+msgid "Type the company tagline"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:80
+msgid "Phone Number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:81
+msgid "Type the phone number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:86
+msgid "Company Address"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:87
+msgid "Type the company address"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:97
+msgid "Map Style"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:98
+msgid "Paste the map style get from here https://snazzymaps.com/"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:108
+msgid "Page Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:115
+msgid "Page Section"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:121
+msgid "Post Per Page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:122
+msgid "Enter how many item will be displayed"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:128
+msgid "Page Section SubTitle"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:133
+msgid "Page Title Background Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:134
+msgid "preferred size (1600x6000)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:139
+msgid "Disable Header"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:140
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:156
+msgid "Only recommended for page template composer"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:146
+msgid "Choose header type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:155
+msgid "Disable Footer"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:165
+msgid "The Layouts Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:172
+msgid "Layouts Section"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:189
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-pages.php:190
+msgid "Choose custom sidebar for this page"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-product.php:14
+msgid "Custom Book Image Dimension"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-product.php:21
+msgid "Product Image Section"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-product.php:27
+msgid "Image Width"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-product.php:32
+msgid "Image Height"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:14
+msgid "Sliders Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:34
+msgid "Text Align"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:35
+msgid "Select the text align"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:37
+msgid "Right"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:38
+msgid "Center"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:39
+msgid "Left"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:45
+msgid "Slider Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:46
+msgid "Select the slider image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:51
+msgid "Slider Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:52
+msgid "Enter the title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:67
+msgid "Slider Link"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/metabox/metabox-sliders.php:68
+msgid "Enter the link"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:11
+msgid "Tokoo - Advanced Categories"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:12
+msgid "A list or dropdown of categories with limitation"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:26
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:26
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:21
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:22
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:22
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:22
+msgid "Enter the widget title."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:25
+msgid "Advanced Categories"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:32
+msgid "Limit Category Display"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:33
+msgid "Enter how many categories to show."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:41
+msgid "Display as Dropdown"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:50
+msgid "Show Post Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:59
+msgid "Show Hierarchy"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:82
+msgid "Advance Categories"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:97
+msgid "Select Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-advanced-categories.php:155
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#. Base ID
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:17
+msgid "Tokoo - Banner Image / Advertisement"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:21
+msgid "A widget to display banner image attachment"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:112
+msgid "New title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:131
+msgid "Size"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:133
+msgid "Set the banner image size <code>Ex: 406x338</code>"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:136
+msgid "Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-banner-image.php:141
+msgid "Upload Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:11
+msgid "Tokoo - Contact Info"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:12
+msgid "A custom widget to display your contact details."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:25
+msgid "Contact Info"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:32
+msgid "Summary :"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:43
+msgid "Address :"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:55
+msgid "Enter the email address"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:65
+msgid "Phone"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:66
+msgid "Enter the phone number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:76
+msgid "Fax"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-contact.php:77
+msgid "Enter the fax number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:11
+msgid "Tokoo - Facebook Fans"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:12
+msgid "A custom widget to display the Facebook fans page box."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:25
+msgid "Facebook Fans"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:32
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:41
+msgid "Width"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:50
+msgid "Height"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-facebook-fans.php:59
+msgid "Connection"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:16
+msgid "Tokoo - Flickr Photo Grid"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:17
+msgid "A custom widget to display the flickr photo in grid display."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:30
+msgid "Flickr Photo Grid"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:37
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:37
+msgid "Flickr ID"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:46
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:46
+msgid "How many photos will be displayed"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:55
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:55
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-grid.php:64
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:64
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:16
+msgid "Tokoo - Flickr Photo Slides"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:17
+msgid "A custom widget to display the flickr photo in slide display."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-flickr-slides.php:30
+msgid "Flickr Photo Slides"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:11
+msgid "Tokoo - Login Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:12
+msgid "A widget to display login form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:20
+msgid "Login Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:21
+msgid "Enter the login title."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:32
+msgid "Logout Title"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:33
+msgid "Enter the logout title."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:69
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:88
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:41
+msgid "Username"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:73
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:50
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:102
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:15
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:54
+msgid "Password"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:78
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:60
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:23
+msgid "Remember me"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:82
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:40
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:58
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:25
+msgid "Login"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:90
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:64
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:27
+msgid "Lost your password?"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:101
+msgid "Welcome back,"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:106
+msgid "Administration"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-login.php:110
+msgid "Profile"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:11
+msgid "Tokoo - MailChimp Subscribe Form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:12
+msgid "Displays your MailChimp for WordPress Subscribe form"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:25
+msgid "Subscribe Newsletter"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:31
+msgid "Mailchimp Form ID"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:32
+msgid "Enter the Mailchimp Form ID."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:42
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:180
+msgid "Description"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-mailchimp-subscribe.php:53
+msgid "Disable Widget Wrapper"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:11
+msgid "Tokoo - Post Type List"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:12
+msgid ""
+"A custom widget to display most recent, popular or random data from any post "
+"type."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:25
+msgid "Post Type List"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:43
+msgid "Enter the type order"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:51
+msgid "Comment Count"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:67
+msgid "Display Date"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:77
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:87
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:97
+msgid "Display Thumbnail"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:107
+msgid "Thumbnail Size"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:117
+msgid "Limit to Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:128
+msgid "Choose the Post Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:139
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:42
+msgid "Display Type"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:140
+msgid "Select your preferred display"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-post-type.php:152
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:54
+msgid "Slide"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:11
+msgid "Tokoo - Recent Comments with Avatar"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:12
+msgid "A custom widget to display recent comments with avatars"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:25
+msgid "Recent Comments With Avatar"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:32
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:32
+msgid "Number"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:94
+msgid "on"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-recent-comments-avatar.php:113
+msgid "No comments."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:14
+msgid "A custom widget to display the social network icons."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:22
+msgid "Tokoo - Social Connect"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:243
+msgid "Title:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:247
+msgid "Description:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:253
+msgid "Type:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:255
+msgid "Normal"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:256
+msgid "Boxed"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:257
+msgid "Rounded"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:263
+msgid "Size:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:265
+msgid "Large"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:266
+msgid "Medium"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:267
+msgid "Small"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:276
+msgid "Facebook Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:280
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:284
+msgid "Google Plus Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:288
+msgid "Linkedin Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:292
+msgid "Spotify Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:296
+msgid "Codepen Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:300
+msgid "Digg Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:304
+msgid "Foursquare Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:313
+msgid "Github Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:317
+msgid "Reddit Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:321
+msgid "Skype Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:325
+msgid "Behance Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:329
+msgid "Youtube Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:333
+msgid "Steam Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:337
+msgid "Dribbble Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:341
+msgid "Tumblr Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:350
+msgid "WordPress Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:354
+msgid "Instagram Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:358
+msgid "Pinterest Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:362
+msgid "Flickr Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:366
+msgid "Vimeo Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:370
+msgid "Vine Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:374
+msgid "Deviantart Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:378
+msgid "Last FM Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-social-icons.php:382
+msgid "Soundcloud Username:"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:11
+msgid "Tokoo - Testimonials"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:12
+msgid "A custom widget that display three testimonials."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-testimonials.php:25
+msgid "Testimonials"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:22
+msgid "Display ThemeForest items with this widget"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:30
+msgid "Tokoo - Themeforest Item"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:57
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:134
+msgid "View more"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:189
+msgid "Item categories to show"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:205
+msgid "Select items from"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:211
+msgid "Popular Items (WordPress Only)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:217
+msgid "Latest Items"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:223
+msgid "Specific User(s)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:229
+msgid "ThemeForest username(s)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:235
+msgid "For multiple users, separate by comma: i.e. user1,user2,user3"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:242
+msgid "Number of items to show"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:251
+msgid "Order by"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:258
+msgid "Upload date"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:261
+msgid "Last update"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:264
+msgid "Number of sales"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:267
+msgid "Price"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:280
+msgid "Ascending"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:286
+msgid "Descending"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:292
+msgid "Exclude item(s)"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:298
+msgid ""
+"Specify item ID to exclude specific item (separate by comma for multiple "
+"items): i.e. 8134834,7184572"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:304
+msgid "Referral user"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:310
+msgid ""
+"Specify username if you want to use items as ThemeForest affiliate links"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:316
+msgid "More link URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:322
+msgid "Specify URL if you want to show \"more\" link under the items list"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:328
+msgid "More link text"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:338
+msgid "Open items in"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:343
+msgid "New Window"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-themeforest-item.php:345
+msgid "Same Window"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:12
+msgid "Tokoo - Video"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:13
+msgid "A custom widget to display video such as from youtube, vimeo and etc."
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:26
+msgid "Video"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:33
+msgid "Video URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-video.php:34
+msgid "Enter video URL"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:12
+msgid "WooCommerce Best Selling Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:13
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:13
+msgid "A custom widget to display best selling product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-best-selling-products.php:34
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:34
+msgid "Limit product display"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:12
+msgid "WooCommerce Top Product"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:26
+msgid "Top Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:42
+msgid "Show Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/app/widgets/class-widget-wc-top-products.php:43
+msgid "Show product image"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:74
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:103
+msgid "Select Item"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:167
+msgid "Select a Slider"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:172
+msgid "No Slider Found"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:207
+msgid "-- None --"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:211
+msgid "No Form Available"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:216
+msgid "Ninja Form not installed"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-data-source.php:315
+msgid "All Category"
+msgstr ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:134
+#, php-format
+msgid "%s year ago"
+msgid_plural "%s years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:135
+#, php-format
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:136
+#, php-format
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:137
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:138
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:139
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-functions.php:140
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/bootstrap/helpers/helper-portfolios.php:66
+msgid "Project Gallery"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/audios/thumbnails.php:10
+#: ../../../../theme/pustaka/woocommerce/audios/thumbnails.php:12
+#: ../../../../theme/pustaka/woocommerce/audios/thumbnails.php:15
+msgid "Featured Image"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/audios/thumbnails.php:24
+msgid "App Store"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/audios/thumbnails.php:28
+msgid "Play Store"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-editorial-review.php:2
+msgid "Editorial Review"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-fbt-form.php:39
+msgid "This Item : "
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-fbt-form.php:93
+msgid "Frequently Bought Together"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-popup-related-by-completed.php:34
+msgid "Customers also purchased these products"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-popup-related-by-viewed.php:34
+msgid "Customers also viewed these products"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-popup-related.php:48
+#: ../../../../theme/pustaka/woocommerce/single-product/related.php:28
+msgid "Related Products"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-popup-up-sells.php:46
+#: ../../../../theme/pustaka/woocommerce/single-product/up-sells.php:28
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:42
+msgid "Look Inside"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:54
+msgid "You are previewing:"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/books/wcbs-single-book-image.php:86
+msgid "Useful Reviews"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:29
+msgid "Cart Totals"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:35
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:36
+#: ../../../../theme/pustaka/woocommerce/cart/mini-cart.php:86
+msgid "Subtotal"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:57
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:94
+#: ../../../../theme/pustaka/woocommerce/cart/cart-totals.php:95
+msgid "Total"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/cross-sells.php:28
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/mini-cart.php:78
+msgid "No products in the cart."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/mini-cart.php:91
+msgid "View Cart"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/cart/mini-cart.php:92
+msgid "Checkout"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-billing.php:34
+msgid "Billing Details"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-billing.php:65
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/checkout/form-checkout.php:60
+msgid "Your order"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/games/thumbnails.php:30
+#: ../../../../theme/pustaka/woocommerce/games/thumbnails.php:42
+#: ../../../../theme/pustaka/woocommerce/movies/thumbnails.php:29
+#: ../../../../theme/pustaka/woocommerce/movies/thumbnails.php:41
+msgid "See Trailer"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/games/thumbnails.php:52
+#: ../../../../theme/pustaka/woocommerce/movies/thumbnails.php:51
+msgid "See Gallery"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:46
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:11
+msgid "Username or email address"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:80
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:116
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:68
+msgid "Register"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:95
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:47
+msgid "Email address"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/form-login.php:109
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:61
+msgid "Anti-spam"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:7
+msgid "Great to have you back"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/header-form-login.php:33
+msgid "Need to create an account?"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:69
+msgid "Pay"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:73
+msgid "View"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:108
+msgid "Previous"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:112
+msgid "Next"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:119
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/myaccount/orders.php:121
+msgid "Go Shop"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: ../../../../theme/pustaka/woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#. Name of the theme
+msgid "Pustaka"
+msgstr ""
+
+#. Description of the theme
+msgid "Premium theme by Tokomoo.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.tokomoo.com/pustaka"
+msgstr ""
+
+#. Author of the theme
+msgid "Tokomoo"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://tokomoo.com"
+msgstr ""
